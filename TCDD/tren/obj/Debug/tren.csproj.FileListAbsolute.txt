@@ -1,0 +1,88 @@
+c:\users\eraslan ahmet\documents\visual studio 2013\Projects\tren\tren\bin\Debug\tren.exe.config
+C:\Users\ERASLAN AHMET\documents\visual studio 2013\Projects\tren\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\ERASLAN AHMET\documents\visual studio 2013\Projects\tren\tren\obj\Debug\tren.Form1.resources
+C:\Users\ERASLAN AHMET\documents\visual studio 2013\Projects\tren\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\ERASLAN AHMET\documents\visual studio 2013\Projects\tren\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\Hasan\Desktop\tren\tren\bin\Debug\tren.exe.config
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.Form1.resources
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\Hasan\Desktop\tren\tren\bin\Debug\tren.exe
+C:\Users\Hasan\Desktop\tren\tren\bin\Debug\tren.pdb
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.exe
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.pdb
+C:\Users\beritan\Desktop\2. Sınıf 1.Dönem(2014)\Nesneye Dayalı Programlama\Applications\Final\tren\tren\bin\Debug\tren.exe.config
+C:\Users\beritan\Desktop\2. Sınıf 1.Dönem(2014)\Nesneye Dayalı Programlama\Applications\Final\tren\tren\obj\Debug\tren.exe
+C:\Users\beritan\Desktop\2. Sınıf 1.Dönem(2014)\Nesneye Dayalı Programlama\Applications\Final\tren\tren\obj\Debug\tren.pdb
+C:\Users\beritan\Desktop\2. Sınıf 1.Dönem(2014)\Nesneye Dayalı Programlama\Applications\Final\tren\tren\bin\Debug\tren.exe
+C:\Users\beritan\Desktop\2. Sınıf 1.Dönem(2014)\Nesneye Dayalı Programlama\Applications\Final\tren\tren\bin\Debug\tren.pdb
+C:\Users\beritan\Desktop\2. Sınıf 1.Dönem(2014)\Nesneye Dayalı Programlama\Applications\Final\tren\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\beritan\Desktop\2. Sınıf 1.Dönem(2014)\Nesneye Dayalı Programlama\Applications\Final\tren\tren\obj\Debug\tren.Form1.resources
+C:\Users\beritan\Desktop\2. Sınıf 1.Dönem(2014)\Nesneye Dayalı Programlama\Applications\Final\tren\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\beritan\Desktop\2. Sınıf 1.Dönem(2014)\Nesneye Dayalı Programlama\Applications\Final\tren\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\beritan\Desktop\tren\tren\bin\Debug\tren.exe.config
+C:\Users\beritan\Desktop\tren\tren\obj\Debug\tren.exe
+C:\Users\beritan\Desktop\tren\tren\obj\Debug\tren.pdb
+C:\Users\yakup\Desktop\tren\tren\bin\Debug\tren.exe.config
+C:\Users\yakup\Desktop\tren\tren\obj\Debug\tren.exe
+C:\Users\yakup\Desktop\tren\tren\obj\Debug\tren.pdb
+C:\Users\yakup\Desktop\tren\tren\bin\Debug\tren.exe
+C:\Users\yakup\Desktop\tren\tren\bin\Debug\tren.pdb
+C:\Users\yakup\Desktop\tren\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\tren\tren\obj\Debug\tren.Form1.resources
+C:\Users\yakup\Desktop\tren\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\yakup\Desktop\tren\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\tren - Kopya\tren\bin\Debug\tren.exe.config
+C:\Users\yakup\Desktop\tren - Kopya\tren\obj\Debug\tren.exe
+C:\Users\yakup\Desktop\tren - Kopya\tren\obj\Debug\tren.pdb
+C:\Users\yakup\Desktop\tren - Kopya\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\tren - Kopya\tren\obj\Debug\tren.Form1.resources
+C:\Users\yakup\Desktop\tren - Kopya\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\yakup\Desktop\tren - Kopya\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\tren - Kopya\tren\bin\Debug\tren.exe
+C:\Users\yakup\Desktop\tren - Kopya\tren\bin\Debug\tren.pdb
+C:\Users\yakup\Desktop\tren - Kopya\tren\obj\Debug\tren.frmKrediKarti.resources
+F:\tren - Kopya\tren\bin\Debug\tren.exe.config
+F:\tren - Kopya\tren\obj\Debug\tren.exe
+F:\tren - Kopya\tren\obj\Debug\tren.pdb
+F:\tren - Kopya\tren\bin\Debug\tren.exe
+F:\tren - Kopya\tren\bin\Debug\tren.pdb
+F:\tren - Kopya\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+F:\tren - Kopya\tren\obj\Debug\tren.Form1.resources
+F:\tren - Kopya\tren\obj\Debug\tren.frmKrediKarti.resources
+F:\tren - Kopya\tren\obj\Debug\tren.Properties.Resources.resources
+F:\tren - Kopya\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\beritan\Desktop\tren - Kopya\tren\bin\Debug\tren.exe.config
+C:\Users\beritan\Desktop\tren - Kopya\tren\obj\Debug\tren.exe
+C:\Users\beritan\Desktop\tren - Kopya\tren\obj\Debug\tren.pdb
+C:\Users\beritan\Desktop\tren - Kopya\tren\bin\Debug\tren.exe
+C:\Users\beritan\Desktop\tren - Kopya\tren\bin\Debug\tren.pdb
+C:\Users\beritan\Desktop\tren - Kopya\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\beritan\Desktop\tren - Kopya\tren\obj\Debug\tren.Form1.resources
+C:\Users\beritan\Desktop\tren - Kopya\tren\obj\Debug\tren.frmKrediKarti.resources
+C:\Users\beritan\Desktop\tren - Kopya\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\beritan\Desktop\tren - Kopya\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\bin\Debug\tren.exe.config
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\obj\Debug\tren.exe
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\obj\Debug\tren.pdb
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\bin\Debug\tren.exe
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\bin\Debug\tren.pdb
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\obj\Debug\tren.Form1.resources
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\obj\Debug\tren.frmKrediKarti.resources
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\yakup\Downloads\tren - Kopya\tren - Kopya\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\yakup\Downloads\EN SON TRENNNNN\tren - Kopya\tren\bin\Debug\tren.exe.config
+C:\Users\yakup\Downloads\EN SON TRENNNNN\tren - Kopya\tren\obj\Debug\tren.exe
+C:\Users\yakup\Downloads\EN SON TRENNNNN\tren - Kopya\tren\obj\Debug\tren.pdb
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\bin\Debug\tren.exe.config
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\obj\Debug\tren.exe
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\obj\Debug\tren.pdb
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\bin\Debug\tren.exe
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\bin\Debug\tren.pdb
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\obj\Debug\tren.Form1.resources
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\obj\Debug\tren.frmKrediKarti.resources
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\beritan\Desktop\EN SON TRENNNNN\tren - Kopya\tren\obj\Debug\tren.csproj.GenerateResource.Cache
